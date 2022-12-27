@@ -30,3 +30,9 @@ body {
   margin-left: 25px;
   margin: 0;
 }
+
+#search-box {
+  height: 80px;
+  width: 300px;
+  font-size: 32px;
+}
